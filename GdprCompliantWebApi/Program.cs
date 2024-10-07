@@ -26,10 +26,6 @@ builder.Services.AddSingleton<MongoContext>(sp =>
     return new MongoContext(connectionString);
 });
 
-
-builder.Services.AddSingleton<IMongoClient, MongoClient>(sp =>
-        new MongoClient("mongodb://localhost:27017"));
-
 builder.Services.AddScoped<UserRepository>();
 
 
