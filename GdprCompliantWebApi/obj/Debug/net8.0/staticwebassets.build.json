@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "0uePVV3diLyDqXxZlTBEKEh+w6pFfhNlWJD73u6lWu4=",
+  "Source": "GdprCompliantWebApi",
+  "BasePath": "_content/GdprCompliantWebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
